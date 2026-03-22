@@ -107,7 +107,7 @@ Para fazer a invasão de um formulário web é necessário fazer diversas verifi
 
 ![alt text](images/login_failed.png)
 
-    Muitos formulários com nível de segurança baixo utilizam apenas a mensagem de erro possibilitando ataques como:
+Muitos formulários com nível de segurança baixo utilizam apenas a mensagem de erro possibilitando ataques como:
 
 ![alt text](images/falsopositivo.png)
 
