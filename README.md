@@ -1,6 +1,6 @@
 # 🔐 Laboratório de Ethical Hacking – Fundamentos de Força Bruta
 
-        Projeto prático desenvolvido em ambiente controlado com o objetivo de compreender, na prática, como ataques de força bruta exploram credenciais fracas em serviços expostos.
+Projeto prático desenvolvido em ambiente controlado com o objetivo de compreender, na prática, como ataques de força bruta exploram credenciais fracas em serviços expostos.
 
 ---
 
@@ -111,15 +111,15 @@ Para fazer a invasão de um formulário web é necessário fazer diversas verifi
 
 ![alt text](images/falsopositivo.png)
 
-    Porém, como visto acima existe mais um parâmetro que está fazendo a Medusa gerar falsos positivos. Com isso é melhor utilizar o Wireshark para fazer o "snif":
+Porém, como visto acima existe mais um parâmetro que está fazendo a Medusa gerar falsos positivos. Com isso é melhor utilizar o Wireshark para fazer o "snif":
 
 ![alt text](images/wireshark.png)
 
-    Com os resultados obtidos temos:
+Com os resultados obtidos temos:
 
 ![alt text](images/location.png)
 
-    Com isso, percebe-se que há um redirecionamento possibilitando reescrita do comando utilizando o novo paramêtro:
+Com isso, percebe-se que há um redirecionamento possibilitando reescrita do comando utilizando o novo paramêtro:
 
 
  ![alt text](images/hydra.png)
